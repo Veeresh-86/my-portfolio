@@ -1,2 +1,15 @@
-# my-portfolio
-This repository contains my personal portfolio website, designed to showcase my skills, projects, academic background, and achievements. The portfolio is fully responsive, clean, and modern, created to present myself professionally for internships, jobs, and academic purposes.
+# Portfolio Website
+
+This is my personal portfolio website created to showcase my skills, projects, and contact details.  
+The design is simple, clean, and fully responsive.
+
+## Features
+- About Me section
+- Skills section
+- Projects showcase
+- Contact information
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
